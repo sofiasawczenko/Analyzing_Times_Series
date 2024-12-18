@@ -1,4 +1,4 @@
-# Alucar - Analisando as Vendas
+# Alucar - Analyzing Sales.
 
 This project analyzes the sales data of the company "Alucar" from the years 2017 and 2018, utilizing Python's `pandas` for data manipulation and `seaborn` for visualizing trends in the data.
 
